@@ -1,4 +1,4 @@
-# the-movie-db
+# the-movie-db DEPRECATED
 the-movie-db es una aplicacion de ejemplo para mostrar Kotlin, MVVM, Clean Architecture, Dagger Hilt, Corutinas, Room database, Retrofit, databinding, livedata, material design, animaciones, espresso y test unitarios.
 
 
